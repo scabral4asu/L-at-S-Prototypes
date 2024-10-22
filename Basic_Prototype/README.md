@@ -17,5 +17,4 @@ Features in the prototype include:
 ## Additional Info
 
 - Included in the directory is the index.html file that can be used to view and interact with the prototype
-- The raw pencil.io file is also included in the directory if you ever need to edit it further or export any elements as other file types.
 - All the pages are also included as png files
